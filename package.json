@@ -19,7 +19,7 @@
   },
   "main": "./lib/airplay",
   "dependencies": {
-    "plist": ">=0.2.1",
+    "plist": "https://github.com/agrieve/node-plist/tarball/master",
     "mdns": ">=0.0.7"
   },
   "scripts": {
